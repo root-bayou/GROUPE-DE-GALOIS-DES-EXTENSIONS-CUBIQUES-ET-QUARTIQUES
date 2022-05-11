@@ -1,4 +1,4 @@
-# M2ACCPFE 
+# GROUPE DE GALOIS DES EXTENSIONS CUBIQUES ET QUARTIQUES
 CALCULE DES GROUPES DE GALOIS DES EXTENSIONS CUBIQUES ET QUARTIQUES <br>
 1 il faut choisir le degré du polynome tapez (3) pour le degré 3 tapez (4) pour le degré 4                                          
 2 il faut choisir la caractéristique du corps 0 pour Q un nombre premier > 3 pour un corps fini                                     
